@@ -115,8 +115,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- Thanks to all contributors who have helped shape this project
-- Built with modern .NET technologies
-- Inspired by the need for better personal finance management 
